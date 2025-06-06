@@ -1,4 +1,4 @@
-# 📁 PwnVault
+# 📁 Pwn3dhub
 
 > A structured collection of all exploited labs, exercises, search results, notes, and reports related to cybersecurity training and certifications.
 
